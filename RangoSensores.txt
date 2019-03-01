@@ -1,0 +1,19 @@
+sensor GUVA RANGO (del 0 al 11)
+	valor UV normal 2, el valor casi no varia y si varia llega a 3
+
+
+Sensor MQ7 (MONOXIDO DE CARBONO)
+	Rango de 0 a 500
+	aire normal (0 a 50)ppm
+	moderado (51 a 100)ppm
+	peligroso (101 a 150)ppm
+	dañino (151 a 300)
+	letal (300 a > 500)
+
+
+Sensor MQ135 (DIOXIDO DE CARBONO)
+	Rango de 0 a 2000
+	aire normal (390 a 410)ppm
+	ambiente cerrado ( 390 a 450)ppm
+	maximo aceptable para el humano 1000ppm
+	valor peligrosos de 1000ppm para arriba
